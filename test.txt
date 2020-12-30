@@ -8,3 +8,4 @@ test git gui
 test tortoisegit
 test git bash
 test tortoisegit
+test git bash
