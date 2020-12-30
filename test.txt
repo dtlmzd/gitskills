@@ -9,3 +9,4 @@ test tortoisegit
 test git bash
 test tortoisegit
 test git bash
+test home git bash
